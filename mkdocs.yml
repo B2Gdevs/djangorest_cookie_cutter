@@ -1,0 +1,12 @@
+site_name: autolist
+site_description: Automatically post to multiple sites
+repo_url: https://github.com/b2gdevs/autolist
+site_dir: site
+copyright: Copyright &copy; 2020, <a href="https://github.com/b2gdevs">b2gdevs</a>.
+dev_addr: 0.0.0.0:8001
+
+nav:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
